@@ -11,8 +11,8 @@ global.owner = [
   ['233208179431', 'Abraham Dwamena', true],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['33757054415', 'Abraham Dwamena3', true],
+  ['2348087287963', 'AKIRA', true],
+  ['2347013274637', 'yuñg', true],
   
 ] //Number of owners
 
@@ -57,9 +57,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'XLICON-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
+global.packname = '𝙔𝙪ñ𝙜 𝙐𝙘𝙝𝙞𝙝𝙖 😎' 
+global.author = 'ᗰᗩᗪE ᗷY 𝘼𝙆𝙄𝙍𝘼' 
+global.menuvid = 'https://i.imgur.com/0JqEAV4.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
